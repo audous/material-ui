@@ -34,7 +34,7 @@ import React from 'react';
 import ScopedCssBaseline from '@material-ui/core/ScopedCssBaseline';
 import MyApp from './MyApp';
 
-export default function MyApp() {
+export default function App() {
   return (
     <ScopedCssBaseline>
       {/* The rest of your application */}
